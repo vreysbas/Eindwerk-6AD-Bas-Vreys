@@ -1,0 +1,46 @@
+INLEVERING VIA GITHUB
+
+GitHub repository link:
+<plak hier je GitHub-link>
+
+Korte uitleg projectstructuur:
+Het project staat in de hoofdmap van de repository. De belangrijkste bestanden en mappen zijn:
+- train_small.py: modeltraining
+- evaluate.py: model evalueren
+- make_medium_dataset.py: dataset opbouwen
+- demo_gui.py: GUI voor voorspellingen
+- input_predict_gui.py: alternatieve GUI
+- compare_dataset_sizes.py: vergelijking tussen modellen/datasets
+- generate_thesis_visuals.py: grafieken voor de thesis
+- academische_grafieken.py: extra grafieken
+- README.md: opstartinstructies en uitleg
+- bronnen_bibliografie_word.txt: bronnen en literatuur
+- figures_academisch/ en thesis_visuals/: gegenereerde figuren
+- automerk_ai/: extra dataset/modelbestanden voor het project
+- src/: hulpscripts
+
+Correcte structuur voor upload:
+1. Upload de code en documentatie in een GitHub-repository.
+2. Zet zware bestanden die groter zijn dan 50 MB apart als link, niet in de zip.
+3. Voeg in README of in dit txt-bestand duidelijk de link naar de grote bestanden toe.
+
+Bestanden die beter apart gelinkt worden als de upload te groot wordt:
+- .venv/
+- dataset/
+- dataset_medium/
+- stanford_cars/
+- *.pth modelbestanden
+- grote exportmappen of figuren als die de limiet overschrijden
+
+Niet in de zip opnemen:
+- literatuurstudie-bestanden
+- herschreven tekstversies van de literatuurstudie
+- de versie die al als PDF apart geüpload is
+
+Wat ik inlever:
+- GitHub-link naar de code
+- zip met de relevante code en documenten
+- aparte link(s) voor grote bestanden indien nodig
+
+Opmerking:
+Controleer voor het uploaden of de repository geen dubbele of onnodige bestanden bevat en dat de README uitlegt hoe het project start.

@@ -1,0 +1,23 @@
+BIBLIOGRAFIE (APA-OVERZICHT)
+
+Archana, R., & Eliahim Jeevaraj, P. S. (2024). Deep learning models for digital image processing: A review. Artificial Intelligence Review. https://doi.org/10.1007/s10462-023-10631-z
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press.
+
+He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770-778.
+
+Hou, S., Li, J., & Min, W. (2022, October 10). Deep learning for logo detection: A survey. arXiv. https://arxiv.org/pdf/2210.04399v1
+
+Kadhim, M. N., Mutlag, A. H., & Mutlag, D. A. (2025). Identification of vehicle logos in deep learning: A comprehensive survey. DOAJ. https://doaj.org/article/fbd7cae0815f4f189ba031d37a4d0037
+
+Kingma, D. P., & Ba, J. (2014). Adam: A method for stochastic optimization. International Conference on Learning Representations (ICLR).
+
+Krause, J., Stark, M., Deng, J., & Fei-Fei, L. (2013). 3D object representations for fine-grained categorization. Proceedings of the IEEE International Conference on Computer Vision Workshops.
+
+Kunduraci, M. F., & Ornek, H. K. (2019). Vehicle brand detection using deep learning algorithms. International Journal of Applied Mathematics Electronics and Computers. https://dergipark.org.tr/en/download/article-file/807444
+
+Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., et al. (2019). PyTorch: An imperative style, high-performance deep learning library. Advances in Neural Information Processing Systems.
+
+Scheire, L. (2023). A.I. Borgerhoff & Lamberigts.
+
+Shorten, C., & Khoshgoftaar, T. M. (2019). A survey on image data augmentation for deep learning. Journal of Big Data.
